@@ -1,2 +1,2 @@
 username,password,amount,budget,total_spent,loans,recurring
-sanket,Sanket@23,9022.0,0,0,0,
+sanket,Sanket@23,9022.0,0.0,0.0,0.0,
